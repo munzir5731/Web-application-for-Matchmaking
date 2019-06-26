@@ -1,0 +1,112 @@
+#signup_header{
+	
+	height:auto;
+	padding:20px 0px 0px 50px;
+	
+}
+#head_text{
+	font-size:30px;
+	background: rgba(255, 255, 255, .9);
+			border-radius:5px;
+			
+			width:155px;
+			margin:0px;
+			padding:5px 10px;
+			color:#ff3333;
+}
+
+.sign_up_body{
+			background-image:url("images/background2.jpg");
+			background-repeat:no-repeat;
+			margin-left:auto;
+			margin-right:auto;
+			background-position:center;
+			background-size: cover;
+			height:800px;
+			}
+			
+.sign-up-form-div{
+			text-align:center;
+			margin:0px 20px 0px 700px;
+			width:450px;
+			
+			border-radius:5px;
+			background: rgba(0, 0, 0, .7);
+			
+			padding:30px 0px;	
+			}
+			
+			
+		.field-value{
+			width: auto;
+			text-align:left;
+			font-size:16px;
+		}
+		.field-value-year{
+			width: auto;
+			text-align:left;
+			font-size:16px;
+			margin-left
+		}
+		.line-details{
+			text-align:left;
+			margin: 8px auto;
+			width:400px;
+			font-size: 14px;
+			padding:0px;
+			color:#FFFFFF;
+		}
+		.line-details-dob{
+			text-align:left;
+			margin:-8px auto 0px;
+			width:400px;
+			font-size: 14px;
+			padding-top:0px;
+		}
+		
+		input[type= text]{
+			padding:5px;
+			width: 250px;
+			border: 2px #009933 solid;
+			border-radius:3px;
+		}
+		
+		input[type= password]{
+			padding:5px;
+			width: 200px;
+			border: 2px #009933 solid;
+			border-radius:3px;
+		}
+		
+		input[type= submit]{
+			margin-top:20px;
+			background-color:#009900;
+			color:white;
+			font-weight:bold;
+			font-size:14px;
+			padding:5px;
+			width: 120px;
+			border: 2px #ffff00 solid;
+			border-radius:3px;
+		}
+		
+		input[type= submit]:hover{
+			background-color:#004d00;
+			cursor: pointer;
+		}
+		
+		select{
+			padding:2px;
+			width: auto;
+			border: 2px #009933 solid;
+			border-radius:3px;
+		}
+		
+		footer{
+				text-align:center;
+				font-size:15px;
+				color:white;
+				padding-top:20px;
+				padding-bottom:20px;
+				background-color:#1F1F1F;
+			}
